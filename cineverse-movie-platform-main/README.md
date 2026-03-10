@@ -323,6 +323,6 @@ Database (MongoDB Atlas)
 
 **Sanjeev Jaiswal**
 
-- GitHub: https://github.com/sanjeevjaiswal2005
-- LinkedIn: https://www.linkedin.com/in/sanjeev-jaiswal2005/
+- GitHub:(https://github.com/Sulekha550/Cineverse_movie_platform)
+
 Built with ❤️ — Powered by TMDB
